@@ -57,3 +57,15 @@ Incorporate real-world datasets to validate the model further.
 Explore ensemble techniques to improve precision and recall.
 Optimize for imbalanced datasets using advanced sampling techniques.
 Deploy the model as a web application or API for practical healthcare use.
+
+## Repository Contents
+| File | Description |
+| --- | --- |
+| [`Monkeypox Detection Model.ipynb`](Monkeypox%20Detection%20Model.ipynb) | Full analysis notebook (data prep, model training, evaluation) |
+| [`TEAM_PARAMOUNT_FINAL PROJECT-1.ipynb`](TEAM_PARAMOUNT_FINAL%20PROJECT-1.ipynb) | Identical copy of the same notebook, submitted under the team's project name (Team Paramount) |
+
+## Running the Notebook
+```bash
+pip install pandas numpy scikit-learn matplotlib jupyter
+jupyter notebook "Monkeypox Detection Model.ipynb"
+```
